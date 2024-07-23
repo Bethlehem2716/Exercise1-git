@@ -1,6 +1,2 @@
-Name=Betlihem mohamed
-Section=A
-Department=Software
-
 ID=NSR/621/14
 Section=A
