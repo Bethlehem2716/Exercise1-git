@@ -1,6 +1,4 @@
-<<<<<<< HEAD
+
  "2023/24 SEMESTER I" 
-"2016 SEMESTER I"
-=======
-  "2023/2024 SEMESTER II"
->>>>>>> feature-update
+"2016 SEMESTER 
+  "2023/2024 SEMESTER I"
